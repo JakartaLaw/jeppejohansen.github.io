@@ -1,0 +1,32 @@
+# Basic site settings
+
+title: "Jeppe Søndergaard Johansen"
+tagline: "Postdoctoral Researcher | Copenhagen Center for Social Data Science"
+description: "Research homepage for Jeppe S. Johansen"
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Author info for sidebar
+
+author:
+  name: "Jeppe S. Johansen"
+  initials: "JSJ"
+  role: "Postdoctoral Researcher"
+  location: "Copenhagen, Denmark"
+  avatar: "" # Add a path like /assets/images/profile.jpg
+
+# Quick links shown in the sidebar
+
+social:
+  - label: "Substack"
+    url: "https://unreasonabledoubt.substack.com/"
+  - label: "ORCID"
+    url: "https://orcid.org/0000-0002-3893-7291"
+  - label: "LinkedIn"
+    url: "https://www.linkedin.com/in/jeppe-s%C3%B8ndergaard-johansen/"
+  - label: "GitHub"
+    url: "https://github.com/JakartaLaw"
